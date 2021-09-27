@@ -18,7 +18,7 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Yashita's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=iam4tart&theme=nord&hide_border=true&fire=DD3569"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Iam4T's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=iam4tart&theme=nord&hide_border=true&fire=DD3569"/>
   </a>
   <p align="center"> If you can dream it, you can do it 🔥 . By the Way, I don't dream about this lol.</p>
 </p>
@@ -84,7 +84,7 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
 <details>
   <summary>⚡ Recent GitHub Activity</summary>
   <br/>
-   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Iam4TArt's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=iam4tart&custom_title=Aarush" /></a>
+   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Iam4TArt's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=iam4tart&custom_title=Iam4T's%20Contribution%20Graph&&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
   <br/>
 </details>
 <!--https://gentle-sands-60774.herokuapp.com/-->
