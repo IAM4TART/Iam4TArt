@@ -84,7 +84,7 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
 <details>
   <summary>⚡ Recent GitHub Activity</summary>
   <br/>
-   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Iam4TArt's Activity Graph" src="https://gentle-sands-60774.herokuapp.com/" /></a>
+   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Iam4TArt's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=iam4tart&custom_title=Aarush" /></a>
   <br/>
 </details>
 <!--https://gentle-sands-60774.herokuapp.com/-->
