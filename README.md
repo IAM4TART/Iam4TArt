@@ -79,12 +79,13 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
+<!--&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866-->
 
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+<!-- https://github.com/ashutosh00710/github-readme-activity-graph || bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true-->
 <details>
   <summary>⚡ Recent GitHub Activity</summary>
   <br/>
-   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Iam4TArt's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=iam4tart&custom_title=Iam4T's%20Contribution%20Graph&&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Iam4TArt's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=iam4tart&custom_title=Iam4T's%20Contribution%20Graph&theme=city_lights" /></a>
   <br/>
 </details>
 
