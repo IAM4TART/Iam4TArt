@@ -18,7 +18,7 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Iam4T's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=iam4tart&theme=nord&hide_border=true&fire=DD3569"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Iam4T's streak" src="h[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iam4tart&theme=nord&hide_border=true&background=2E3440&ring=81A1C1&stroke=88C0D0&currStreakNum=D08770&fire=D08770&sideNums=BF616A&currStreakLabel=D08770&sideLabels=81A1C1&dates=81A1C1)](https://git.io/streak-stats)"/>
   </a>
   <p align="center"> If you can dream it, you can do it 🔥 . By the Way, I don't dream about this lol.</p>
 </p>
