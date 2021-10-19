@@ -10,7 +10,7 @@ Hi, I'm Aarush Aggarwal!
 </p>
 <hr/>
 <samp>
-Here goes my descrip.</samp>
+Here goes my descrip.! I am still under construction</samp>
 
 ## 🔥 Streak stats
 
