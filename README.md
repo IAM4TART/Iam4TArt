@@ -10,7 +10,7 @@ Hi, I'm Aarush Aggarwal!
 </p>
 <hr/>
 <samp>
-Here goes my descrip.! I am still under construction</samp>
+Here goes my descrip.! I am still under construction || I can also make this totally different others i know</samp>
 
 ## 🔥 Streak stats
 
