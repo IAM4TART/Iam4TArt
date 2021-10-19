@@ -10,8 +10,7 @@ Hi, I'm Aarush Aggarwal!
 </p>
 <hr/>
 <samp>
-I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented individual👩‍💻 with decent moral Values and Ethicates🙇‍♀️ along with a high-energy level🤹‍♀️, honed communication skills👐, strong organizational skills👮‍♀️, and meticulous attention🕵️‍♀️ to detail.
-</samp>
+Here goes my descrip.</samp>
 
 ## 🔥 Streak stats
 
